@@ -47,6 +47,7 @@ button{
 button:hover{
     background-color: #2e8baf;
     box-shadow: 3px 3px 5px gray;
+    outline: none;
 }
 ul{
     list-style: none;
